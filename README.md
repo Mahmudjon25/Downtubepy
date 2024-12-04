@@ -1,11 +1,13 @@
 # Downtubepy
 # vide
 # MP3
- pkg install update && pkg install upgrade
- pkg install python
 
- git clone https://github.com/Mahmudjon25/Downtubepy
+ *pkg install update && pkg install upgrade
 
-cd Downtubepy
+ *pkg install python
 
-python downtube.py
+ *git clone https://github.com/Mahmudjon25/Downtubepy
+
+*cd Downtubepy
+
+*python downtube.py
